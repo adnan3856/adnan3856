@@ -3,8 +3,11 @@
 
 [<img align="left" alt="adnan3856 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/adnan3856)
 [<img align="left" alt="adnan3856 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/in/adnan3856)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/adnan3856/)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/adnan3856/)
+
+
 ---
+
 
 - 🔭 I’m currently working on ... Spring Framework
 - 🌱 I’m currently learning spring framework & tensorflow
