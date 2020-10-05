@@ -1,5 +1,5 @@
 ### Hi there 👋 I am [Adnan Anjum](https://github.com/adnan3856/).
-[<img align="left" alt="adnan3856 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][http://linkedin.com/in/adnan3856]
+[<img align="left" alt="adnan3856 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/adnan3856)
 [<img align="left" alt="adnan3856 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ---
 - 🔭 I’m currently working on ... Spring Framework
