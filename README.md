@@ -1,4 +1,4 @@
-<center>## Heyyyyyyy.... 👋 I am [Adnan Anjum](https://github.com/adnan3856/)</center>
+### Heyyyyyyy.... 👋 I am [Adnan Anjum](https://github.com/adnan3856/)
 
 <p align="center">
   <img src="unnamed.gif" />
