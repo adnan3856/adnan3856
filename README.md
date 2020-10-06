@@ -1,8 +1,6 @@
 ### Heyyyyyyy.... 👋 I am [Adnan Anjum](https://github.com/adnan3856/)
 
-<p align="center">
-  <img src="unnamed.gif" />
-</p>
+<img align="center" alt="Code gif" src="https://github.com/adnan3856/adnan3856/blob/master/assets/71D9073F-5D2D-4778-9469-3CC8853D64DF.gif" width="100%" />
 
 [<img align="left" alt="adnan3856 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/adnan3856)
 [<img align="left" alt="adnan3856 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://instagram.com/in/adnan3856)
