@@ -19,7 +19,7 @@
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...linkedin, instagram,mail
 - 😄 Pronouns: ...We
-- ⚡ Fun fact: ...I am a sketcher and Graphics Designer too. Want to see some work, look at the gif below.
+- ⚡ Fun fact: ...I like to sketch and am a Graphics Designer too. Want to see some work, look at the gif below.
 <br />
 ---
 <br />
