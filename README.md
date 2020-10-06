@@ -21,8 +21,9 @@
 - 😄 Pronouns: ...We
 - ⚡ Fun fact: ...I like to sketch and am a Graphics Designer too. Want to see some work, look at the gif below.
 <br />
--### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)--
+---
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=YUbuntu0109&show_icons=true&hide_border=true)
 
 <br />
 
