@@ -1,4 +1,4 @@
-### Heyyyyyyy.... 👋 I am [Adnan Anjum](https://github.com/adnan3856/)
+<h1 align="center"> Hey 👋🏽, I'm <a href="https://github.com/adnan3856/">Adnan Anjum</a> </h1>
 
 <img align="center" alt="Code gif" src="71D9073F-5D2D-4778-9469-3CC8853D64DF.gif" width="100%" />
 
