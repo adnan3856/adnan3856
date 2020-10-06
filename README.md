@@ -10,6 +10,7 @@
 
 ---
 <br />
+
 - 🔭 I’m currently working on ... Spring Framework
 
 - 🌱 I’m currently learning spring framework & tensorflow
@@ -22,8 +23,8 @@
 - 😄 Pronouns: ...We
 - ⚡ Fun fact: ...I like to sketch and am a Graphics Designer too. Want to see some work, look at the gif below.
 <br />
----
 
+---
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=adnan3856&show_icons=true&hide_border=true)
