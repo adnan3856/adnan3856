@@ -11,8 +11,11 @@
 ---
 <br />
 - 🔭 I’m currently working on ... Spring Framework
+
 - 🌱 I’m currently learning spring framework & tensorflow
+
 - 👯 I’m looking to collaborate on machine learning
+
 - 🤔 I’m looking for help with ...Knowledge and ofcourse a smile
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...linkedin, instagram,mail
