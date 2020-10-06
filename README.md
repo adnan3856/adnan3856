@@ -10,6 +10,7 @@
 </p>
 <img align="center" alt="Code gif" src="71D9073F-5D2D-4778-9469-3CC8853D64DF.gif" width="100%" />
 ---
+<br />
 - 🔭 I’m currently working on ... Spring Framework
 - 🌱 I’m currently learning spring framework & tensorflow
 - 👯 I’m looking to collaborate on machine learning
