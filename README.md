@@ -27,5 +27,4 @@
 
 <br />
 <img align="center" alt="Code gif" src="IMG-1198.GIF" width="100%" />
-![]()
 <br />
