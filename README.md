@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on ... Spring Framework
+- 🔭 I’m currently working on ... Spring Framework & Julia
 
 - 🌱 I’m currently learning spring framework & tensorflow
 
