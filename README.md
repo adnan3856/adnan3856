@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋🏽, I'm <a href="https://github.com/adnan3856/">Adnan Anjum</a> </h1>
-
+<h3 align="center"> A JAVA Developer </h3>
 <p align="center">
  <a href="mailto:adnananjum12@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/adnan3856"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40px" alt="mail"></a> &nbsp; &nbsp;
@@ -9,7 +9,7 @@
 <img align="center" alt="Code gif" src="71D9073F-5D2D-4778-9469-3CC8853D64DF.gif" width="100%" />
 
 ---
-<h3> A JAVA Developer </h3>
+
 <!-- - 🔭 I’m currently working on ... Spring Framework & Julia
 
 - 🌱 I’m currently learning spring framework & tensorflow
