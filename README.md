@@ -9,7 +9,6 @@
 <p align="center">
 <img alt="Code gif" src="71D9073F-5D2D-4778-9469-3CC8853D64DF.gif" width="50%" />
 </p>
----
 
 <!-- - 🔭 I’m currently working on ... Spring Framework & Julia
 
@@ -23,11 +22,9 @@
 - 😄 Pronouns: ...We
  -->
 - ⚡ Fun fact: ...I like to sketch and am a Graphics Designer too. Want to see some work, look at the gif below.
----
 <!-- 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=adnan3856&show_icons=true&hide_border=true)
  -->
 <br />
 <img align="center" alt="Code gif" src="IMG-1198.GIF" width="100%" />
-<br />
