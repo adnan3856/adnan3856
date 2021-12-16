@@ -9,8 +9,8 @@
 <img align="center" alt="Code gif" src="71D9073F-5D2D-4778-9469-3CC8853D64DF.gif" width="100%" />
 
 ---
-
-- 🔭 I’m currently working on ... Spring Framework & Julia
+<h3> A JAVA Developer </h3>
+<!-- - 🔭 I’m currently working on ... Spring Framework & Julia
 
 - 🌱 I’m currently learning spring framework & tensorflow
 
@@ -20,7 +20,7 @@
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...linkedin, instagram,mail
 - 😄 Pronouns: ...We
-- ⚡ Fun fact: ...I like to sketch and am a Graphics Designer too. Want to see some work, look at the gif below.
+- ⚡ Fun fact: ...I like to sketch and am a Graphics Designer too. Want to see some work, look at the gif below. -->
 
 ---
 
